@@ -1,0 +1,8 @@
+{
+  "dashboard": {
+    "title": "Ollama API Monitoring",
+    "panels": [],
+    "schemaVersion": 16,
+    "version": 0
+  }
+}
